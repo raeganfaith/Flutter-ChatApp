@@ -58,8 +58,6 @@ messaging experiences.
 
 ## Objectives <a name="objectives"></a>
 - Real-time Messaging - enable users to send and receive messages in realtime to facilitate instant communication.
-- Multimedia Support – allow users to share not only text messages but also 
-multimedia content such as images, videos, and audio clips.
 - Intuitive User Interface Design – a user-friendly interface that is easy to 
 navigate, ensuring a positive user experience.
 - Customization – allow users to customize their profiles, chat backgrounds, 
